@@ -1,0 +1,2 @@
+rootProject.name = "AKULA_GM"
+include ':app'
